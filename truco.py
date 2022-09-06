@@ -183,8 +183,8 @@ else:
     else:
         j2 = (baralho.index(j2)/4 - (baralho.index(j2)%4)/4)
         
-    print(j2)
     
+    print(j2)
     
     
     print()
